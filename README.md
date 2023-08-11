@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jahid7786
-- 👀 🍩 🌎 Senior Engineer. Currently: @Wipro. Formerly @Microsoft, @Samsung,@Cadence.
+- 👀 🍩 🌎 Senior Lead Engineer. Currently: @Wipro. Formerly @Microsoft, @Samsung,@Cadence.
 
 
 <!---
